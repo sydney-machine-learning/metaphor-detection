@@ -1,2 +1,2 @@
-# languagemodel-groundedtheory
-Language model for generating questions for grounded theory research
+# Metaphor Detection: Change the repo name too
+Metaphor detection in Bhagavad Gita and Sermon on the Mount using BERT-based models
