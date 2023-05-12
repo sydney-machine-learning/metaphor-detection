@@ -1,0 +1,112 @@
+,verse,chapter,num,list_metaphors,count_metaphors,refined,verb_refined,count_met_ref,count_verb_ref
+0,and seeing the crowd he went up into a mountain and when he was set his disciples came to him,5,1,[],0,[],[],0,0
+1,and he opened his mouth and taught them saying,5,2,[],0,[],[],0,0
+2,blessed are the poor in spirit for theirs is the kingdom of heaven.,5,3,"['in', 'kingdom']",2,['kingdom'],[],1,0
+3,blessed are they that mourn for they shall be comforted.,5,4,[],0,[],[],0,0
+4,blessed are the meek for they shall inherit the earth.,5,5,[],0,[],[],0,0
+5,blessed are they which do hunger and thirst after righteousness for they shall be filled.,5,6,"['after', 'filled']",2,['filled'],['filled'],1,1
+6,blessed are the merciful for they shall obtain mercy.,5,7,['obtain'],1,['obtain'],['obtain'],1,1
+7,blessed are the pure in heart for they shall see god.,5,8,"['in', 'see']",2,['see'],['see'],1,1
+8,blessed are the peacemakers for they shall be called the children of god.,5,9,[],0,[],[],0,0
+9,blessed are they which are persecuted for righteousness sake for theirs is the kingdom of heaven.,5,10,['king'],1,['king'],[],1,0
+10,blessed are you when men shall revile you and persecute you and shall say all manner of evil against you falsely for my sake.,5,11,['against'],1,[],[],0,0
+11,rejoice and be exceeding glad for great is your reward in heaven for so persecuted they the prophets which were before you.,5,12,"['great', 'in', 'before']",3,['great'],[],1,0
+12,you are the salt of the earth but if the salt have lost his savour wherewith shall it be salted it is thenceforth good for nothing but to be cast out and to be trodden under foot of men.,5,13,"['lost', 'foot']",2,"['lost', 'foot']",['lost'],2,1
+13,you are the light of the world. a city that is set on an hill cannot be hid.,5,14,"['light', 'hid']",2,"['light', 'hid']",[],2,0
+14,neither do men light a candle and put it under a bush but on a candlestick and it give light to all that are in the house.,5,15,"['give', 'to']",2,['give'],['give'],1,1
+15,let your light so shine before men that they may see your good works and glorify your father which is in heaven.,5,16,"['shine', 'fy', 'in']",3,"['shine', 'fy']",[],2,0
+16,think not that i am come to destroy the law or the prophets i am not come to destroy but to fulfil.,5,17,"['destroy', 'destroy']",2,"['destroy', 'destroy']",[],2,0
+17,for truly i say to you till heaven and earth pass one bit or one dot shall in no wise pass from the law till all be fulfilled.,5,18,"['to', 'till', 'pass', 'in', 'wise pass from', 'till']",6,"['till', 'pass', 'wise pass from', 'till']",[],4,0
+18,whosoever therefore shall break one of these least commandments and shall teach men so he shall be called the least in the kingdom of heaven but whosoever shall do and teach them the same shall be called great in the kingdom of heaven.,5,19,"['break', 'these', 'ments', 'great']",4,"['break', 'ments', 'great']",[],3,0
+19,for i say to you that except your righteousness shall exceed the righteousness of the scribes and pharisees you shall in no case enter into the kingdom of heaven.,5,20,"['to', 'exceed', 'in', 'into']",4,['exceed'],[],1,0
+20,you have heard that it was said of them of old time you shall not kill and whosoever shall kill shall be in danger of the judgment,5,21,"['old', 'in']",2,['old'],[],1,0
+21,but i say to you that whosoever is angry with his brother without a cause shall be in danger of the judgment and whosoever shall say to his brother raca shall be in danger of the council but whosoever shall say youfool shall be in danger of hell fire.,5,22,"['to', 'with', 'without', 'cause', 'to']",5,['cause'],[],1,0
+22,therefore if you bring your gift to the altar and there remember that your brother has something against you,5,23,"['has', 'against']",2,['has'],['has'],1,1
+23,leave there your gift before the altar and go your way first be reconciled to your brother and then come and offer your gift.,5,24,['to'],1,[],[],0,0
+24,agree with your adversary quickly whiles you art in the way with him lest at any time the adversary deliver you to the judge and the judge deliver you to the officer and you be cast into prison.,5,25,"['with', 'in', 'way with', 'at']",4,['way with'],[],1,0
+25,truly i say to you you shall by no means come out thence till you have paid the last penny.,5,26,['to'],1,[],[],0,0
+26,you have heard that it was said by them of old time you shall not commit adultery,5,27,"['old', 'commit']",2,"['old', 'commit']",[],2,0
+27,but i say to you that whosoever look on a woman to lust after her has committed adultery with her already in his heart.,5,28,"['to', 'look on', 'after', 'with', 'in', 'heart']",6,"['look on', 'heart']",[],2,0
+28,and if your right eye offend you pluck it out and cast it from you for it is profitable for you that one of your members should perish and not that your whole body should be cast into hell.,5,29,['into'],1,[],[],0,0
+29,and if your right hand offend you cut it off and cast it from you for it is profitable for you that one of your members should perish and not that your whole body should be cast into hell.,5,30,"['offen', 'members', 'into']",3,"['offen', 'members']",[],2,0
+30,it has been said whosoever shall put away his wife let him give her a writing of divorcement,5,31,['give'],1,['give'],['give'],1,1
+31,but i say to you that whosoever shall put away his wife saving for the cause of fornication cause her to commit adultery and whosoever shall marry her that is divorced commit adultery.,5,32,['to'],1,[],[],0,0
+32,again you have heard that it has been said by them of old time you shall not commit perjury yourself but shall perform to the lord your oaths,5,33,"['old', 'commit', 'to']",3,"['old', 'commit']",[],2,0
+33,but i say to you swear not at all neither by heaven for it is god s throne,5,34,"['to', '', 'ne']",3,['ne'],[],1,0
+34,nor by the earth for it is his footstool neither by jerusalem for it is the city of the great king.,5,35,['great'],1,['great'],[],1,0
+35,neither shall you swear by your head because you cannot make one hair white or black.,5,36,['make'],1,['make'],['make'],1,1
+36,but let your communication be yes yes no no for whatsoever is more than these come of evil.,5,37,['these come'],1,['these come'],['these come'],1,1
+37,you have heard that it has been said an eye for an eye and a tooth for a tooth,5,38,[],0,[],[],0,0
+38,but i say to you that you resist not evil but whosoever shall strike you on your right cheek turn to him the other also.,5,39,"['to', 'turn to']",2,['turn to'],[],1,0
+39,and if any man will sue you at the law and take away your coat let him have your cloak also.,5,40,['at'],1,[],[],0,0
+40,and whosoever shall compel you to go a mile go with him two.,5,41,[],0,[],[],0,0
+41,give to him that ask you and from him that would borrow of you turn not you away.,5,42,"['from', 'borrow']",2,['borrow'],[],1,0
+42,you have heard that it has been said you shall love your neighbour and hate your enemy.,5,43,[],0,[],[],0,0
+43,but i say to you love your enemies bless them that curse you do good to them that hate you and pray for them which despitefully use you and persecute you,5,44,"['to', 'curs', 'to', 'use']",4,"['curs', 'use']",[],2,0
+44,that you may be the children of your father which is in heaven for he make his sun to rise on the evil and on the good and send rain on the just and on the unjust.,5,45,"['in', 'make', 'rise on', 'on', 'send rain on', 'on']",6,"['make', 'rise on', 'send rain on']",['make'],3,1
+45,for if you love them which love you what reward have you do not even the tax collectors the same,5,46,['reward have'],1,['reward have'],['reward have'],1,1
+46,and if you salute your brother only what do you more than others do not even the tax collectors so,5,47,[],0,[],[],0,0
+47,be you therefore perfect even as your father which is in heaven is perfect.,5,48,['in'],1,[],[],0,0
+48,take attention that you do not your charity before men to be seen of them otherwise you have no reward of your father which is in heaven.,6,1,"['take', 'before', 'have', 'in heaven']",4,"['take', 'have', 'in heaven']","['take', 'have']",3,2
+49,therefore when you do your charity do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets that they may have glory of men. truly i say to you they have their reward.,6,2,"['before', 'have glory', 'to', 'have', 'reward']",5,"['have glory', 'have', 'reward']","['have glory', 'have']",3,2
+50,but when you do charity let not your left hand know what your right hand does,6,3,['know'],1,['know'],['know'],1,1
+51,that your charity may be in secret and your father which sees in secret himself shall reward you openly.,6,4,"['in', 'se', 'in', 'open']",4,"['se', 'open']",[],2,0
+52,and when you pray you shall not be as the hypocrites are for they love to pray standing in the synagogues and in the corners of the streets that they may be seen of men. truly i say to you they have their reward.,6,5,"['to', 'have', 'reward']",3,"['have', 'reward']",['have'],2,1
+53,but you when you pray enter into your room and when you have shut your door pray to your father which is in secret and your father which sees in secret shall reward you openly.,6,6,"['to', 'in', 'se', 'in', 'open']",5,"['se', 'open']",[],2,0
+54,but when you pray use not vain repetitions as the pagans do for they think that they shall be heard for their much speaking.,6,7,[],0,[],[],0,0
+55,be not you therefore like to them for your father know what things you have need of before you ask him.,6,8,"['to', 'things', 'have']",3,"['things', 'have']",['have'],2,1
+56,after this manner therefore pray you our father which art in heaven hallowed be your name.,6,9,"['after this', 'in', 'hallow']",3,"['after this', 'hallow']",[],2,0
+57,your kingdom come your will be done in earth as it is in heaven.,6,10,"['come', 'in']",2,['come'],['come'],1,1
+58,give us this day our daily bread.,6,11,"['give', 'this']",2,['give'],['give'],1,1
+59,and forgive us our debts as we forgive our debtors.,6,12,[],0,[],[],0,0
+60,and lead us not into temptation but deliver us from evil for your is the kingdom and the power and the glory for ever. amen.,6,13,"['lead', 'into', 'deliver', 'from', 'power']",5,"['lead', 'deliver', 'power']",[],3,0
+61,for if you forgive men their trespasses your heavenly father will also forgive you,6,14,[],0,[],[],0,0
+62,but if you forgive not men their trespasses neither will your father forgive your trespasses.,6,15,[],0,[],[],0,0
+63,moreover when you fast be not as the hypocrites of a sad countenance for they disfigure their faces that they may appear to men to fast. truly i say to you they have their reward.,6,16,"['sad', 'to', 'to', 'have', 'reward']",5,"['sad', 'have', 'reward']",['have'],3,1
+64,but you when you fast oil your head and wash your face,6,17,[],0,[],[],0,0
+65,that you appear not to men to fast but to your father which is in secret and your father which sees in secret shall reward you openly.,6,18,"['to', 'to', 'in', 'se', 'in', 'open']",6,"['se', 'open']",[],2,0
+66,lay not up for yourselves treasures upon earth where moth and rust do corrupt and where thieves break through and steal,6,19,['corrupt'],1,['corrupt'],[],1,0
+67,but lay up for yourselves treasures in heaven where neither moth nor rust do corrupt and where thieves do not break through nor steal,6,20,['corrupt'],1,['corrupt'],[],1,0
+68,for where your treasure is there will your heart be also.,6,21,[],0,[],[],0,0
+69,the light of the body is the eye if therefore your eye be single your whole body shall be full of light.,6,22,['full'],1,['full'],[],1,0
+70,but if your eye be evil your whole body shall be full of darkness. if therefore the light that is in you be darkness how great is that darkness,6,23,"['vil', 'full', 'great', 'that']",4,"['vil', 'full', 'great']",[],3,0
+71,no man can serve two masters for either he will hate the one and love the other or else he will hold to the one and despise the other. you cannot serve god and money.,6,24,"['serve', 'hold to', 'serve']",3,"['serve', 'hold to', 'serve']",[],3,0
+72,therefore i say to you take no worry for your life what you shall eat or what you shall drink nor worry for your body what you shall put on. is not the life more than meat and the body than clothes,6,25,"['to', 'take']",2,['take'],['take'],1,1
+73,behold the birds of the air for they sow not neither do they reap nor gather into barns yet your heavenly father feeds them. are you not much better than they,6,26,"['hold', 'ap', 'gather']",3,"['hold', 'ap', 'gather']",[],3,0
+74,which of you by taking worry can add one hour to his life,6,27,"['taking', 'add', 'to']",3,"['taking', 'add']","['taking', 'add']",2,2
+75,and why take you worry for clothes consider the lilies of the field how they grow they labor not neither do they spin,6,28,"['take', 'consider']",2,"['take', 'consider']","['take', 'consider']",2,2
+76,and yout i say to you that even solomon in all his glory was not dressed like one of these.,6,29,"['to', 'in', 'these']",3,[],[],0,0
+77,wherefore if god so clothes the grass of the field which to day is and to tomorrow is cast into the oven shall he not much more clothe you o you of little faith,6,30,"['to', 'to']",2,[],[],0,0
+78,therefore take no worry saying what shall we eat or what shall we drink or wherewithal shall we be clothed,6,31,"['take', 'with']",2,['take'],['take'],1,1
+79,for after all these things do the pagans seek for your heavenly father know that you have need of all these things.,6,32,"['after', 'these things', 'seek', 'have', 'these things']",5,"['these things', 'seek', 'have', 'these things']",['have'],4,1
+80,but seek you first the kingdom of god and his righteousness and all these things shall be added to you.,6,33,"['seek', 'dom', 'these things', 'added to']",4,"['seek', 'dom', 'these things', 'added to']",['added to'],4,1
+81,take therefore no worry for the tomorrow for the tomorrow shall take worry for the things of itself. sufficient to the day is the evil thereof.,6,34,"['take', 'take', 'things', 'to', 'there']",5,"['take', 'take', 'things', 'there']","['take', 'take']",4,2
+82,judge not that you be not judged.,7,1,[],0,[],[],0,0
+83,for with what judgment you judge you shall be judged and with what measure you use it shall be measured to you again.,7,2,"['with', 'with', 'measure', 'measure', 'to']",5,"['measure', 'measure']",[],2,0
+84,and why look you the speck of sawdust that is in your brother s eye but consider not the beam that is in your own eye,7,3,"['speck', 'beam']",2,"['speck', 'beam']",[],2,0
+85,or how can you say to your brother let me pull out the speck out of your eye and behold a beam is in your own eye,7,4,"['to', 'beam']",2,['beam'],[],1,0
+86,you hypocrite first take out the beam out of your own eye and then shall you see clearly to take out the speck out of your brother s eye.,7,5,"['beam', 'take', 'speck']",3,"['beam', 'take', 'speck']",['take'],3,1
+87,give not that which is holy to the dogs neither cast you your pearls before pigs lest they trample them under their feet and turn again and tear you.,7,6,['to'],1,[],[],0,0
+88,ask and it shall be given you seek and you shall find knock and it shall be opened to you,7,7,"['given', 'to']",2,['given'],['given'],1,1
+89,for every one that asks receives and he that seeks finds and to him that knocks it shall be opened.,7,8,"['to', 'knock']",2,['knock'],[],1,0
+90,or what man is there of you whom if his son ask bread will he give him a stone,7,9,[],0,[],[],0,0
+91,or if he ask a fish will he give him a serpent,7,10,['give'],1,['give'],['give'],1,1
+92,if you then being evil know how to give good gifts to your children how much more shall your father which is in heaven give good things to them that ask him,7,11,"['then', 'to', 'in', 'things to']",4,"['then', 'things to']",[],2,0
+93,therefore all things whatsoever you would that men should do to you do you even so to them for this is the law and the prophets.,7,12,"['things', 'to', 'to', 'this']",4,['things'],[],1,0
+94,enter you in at the narrow gate for wide is the gate and broad is the way that leads to destruction and many there be which go in there,7,13,['leads to'],1,['leads to'],[],1,0
+95,because narrow is the gate and narrow is the way which leads to life and few there be that find it.,7,14,"['gate', 'leads to', 'find']",3,"['gate', 'leads to', 'find']",['find'],3,1
+96,beware of false prophets which come to you in sheep s clothing but inwardly they are ravening wolves.,7,15,"['come', 'rave']",2,"['come', 'rave']","['come', 'rave']",2,2
+97,you shall know them by their fruits. do men gather grapes of thorns or figs of thistles,7,16,[],0,[],[],0,0
+98,even so every good tree brings forth good fruit but a corrupt tree brings forth evil fruit.,7,17,"['brings', 'corrupt', 'bring', 'th evil']",4,"['brings', 'corrupt', 'bring', 'th evil']",[],4,0
+99,a good tree cannot bring forth evil fruit neither can a corrupt tree bring forth good fruit.,7,18,"['bring', 'evil', 'corrupt', 'bring']",4,"['bring', 'evil', 'corrupt', 'bring']",[],4,0
+100,every tree that brings not forth good fruit is cut down and cast into the fire.,7,19,['brings'],1,['brings'],[],1,0
+101,wherefore by their fruits you shall know them.,7,20,[],0,[],[],0,0
+102,not every one that says to me lord lord shall enter into the kingdom of heaven but he that does the will of my father which is in heaven.,7,21,"['to', 'into', 'in']",3,[],[],0,0
+103,many will say to me in that day lord lord have we not prophesied in your name and in your name have cast out devils and in your name done many wonderful works,7,22,"['to', 'in that', 'in', 'in', 'cast out', 'in']",6,"['in that', 'cast out']",[],2,0
+104,and then will i tell to them i never knew you depart from me you that work immoraly.,7,23,['to'],1,[],[],0,0
+105,therefore whosoever hears these sayings of mine and does them i will like him to a wise man which built his house upon a rock,7,24,"['these', 'to']",2,[],[],0,0
+106,and the rain descended and the floods came and the winds blew and beat upon that house and it fell not for it was founded upon a rock.,7,25,[],0,[],[],0,0
+107,and every one that hears these sayings of mine and does them not shall be like to a foolish man which built his house upon the sand,7,26,"['these', 'to', 'ish man']",3,['ish man'],[],1,0
+108,and the rain descended and the floods came and the winds blew and beat upon that house and it fell and great was the fall of it.,7,27,['ble'],1,['ble'],[],1,0
+109,and it came to pass when jesus had ended these sayings the people were astonished at his doctrine,7,28,"['came', 'pass', 'these', 'at']",4,"['came', 'pass']",['came'],2,1
+110,for he taught them as one having authority and not as the scribes.,7,29,['having'],1,['having'],['having'],1,1
